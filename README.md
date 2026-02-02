@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Emin Suha Aksu</h1>
 <p align="center">
-  Software Developer from Turkey • Windows apps • Qt (Qt Creator) • Full-stack in progress
+  Software Developer from Turkey • Windows apps • Qt (Qt Creator) • C++/C#
 </p>
 
 <p align="center">
@@ -20,9 +20,10 @@
 ---
 
 ### 🔭 Current focus
-- Building my **Portfolio Site** → (put your link here)
-- Learning **MERN (MongoDB, Express.js, React, Node.js)**
-- Ask me about **Windows Forms** and **Qt Creator**
+- 🎓 **Thesis:** Blind Flight Support (BFS) – Digital Twin + Prediction + Risk Overlays
+- 🔭 Building my **Portfolio Site** → (put your link here)
+- 🧪 Learning **Docker** (beginner / hands-on practice)
+- 💬 Ask me about **Windows Forms** and **Qt Creator**
 
 ---
 
@@ -31,20 +32,18 @@
 - **Project 2** – short one-liner (repo link)
 - **Project 3** – short one-liner (repo link)
 
-> Tip: GitHub “Pinned repositories” ile burayı tutarlı yaparsın.
-
 ---
 
 ### 🧰 Tech stack
 **Languages:** C++, C#, JavaScript, TypeScript  
-**Frameworks:** .NET, Qt, React, Node.js, Express.js  
-**Tools:** Git, Docker, Kubernetes, Linux  
-**Databases:** PostgreSQL, MySQL, MongoDB, SQLite
+**Frameworks:** .NET, Qt, React  
+**Tools:** Git, Docker (learning), Linux, Kubernetes (basic)  
+**Databases:** PostgreSQL, MySQL, SQLite
 
 <details>
   <summary>📌 Full list (icons)</summary>
   <p align="left">
-    <!-- existing icons here -->
+    <!-- existing icons here (remove mongodb icon) -->
   </p>
 </details>
 
