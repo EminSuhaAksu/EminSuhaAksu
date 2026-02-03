@@ -20,17 +20,16 @@
 ---
 
 ### 🔭 Current focus
-- 🎓 **Thesis:** Blind Flight Support (BFS) – Digital Twin + Prediction + Risk Overlays
-- 🔭 Building my **Portfolio Site** → (put your link here)
-- 🧪 Learning **Docker** (beginner / hands-on practice)
-- 💬 Ask me about **Windows Forms** and **Qt Creator**
+- 🎓 I’m currently working on my **Thesis: Blind Flight Support (BFS) – Prediction + Risk Overlays**
 
----
+- 🧪 I’m currently learning **Docker (beginner / hands-on)**
 
-### ⭐ Featured Projects
-- **Project 1** – short one-liner (repo link)
-- **Project 2** – short one-liner (repo link)
-- **Project 3** – short one-liner (repo link)
+- 👨‍💻 All of my projects are available at WIP
+
+- 💬 Ask me about **Windows Forms apps and Qt Creator**
+
+- 📫 How to reach me **eminsuha.aksu@gmail.com**
+
 
 ---
 
@@ -39,6 +38,16 @@
 **Frameworks:** .NET, Qt, React  
 **Tools:** Git, Docker (learning), Linux, Kubernetes (basic)  
 **Databases:** PostgreSQL, MySQL, SQLite
+
+<h3 align="left">Thesis stack:</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Qt%20(Qt%20Creator)-41CD52?logo=qt&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/UE%20(Unreal%20Engine)-0E1128?logo=unrealengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cesium-1B1F23?logo=cesium&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenWeather-EB6E4B?logo=openweathermap&logoColor=white" />
+  <img src="https://img.shields.io/badge/SimConnect-0078D4?logo=microsoft&logoColor=white" />
+</p>
 
 <details>
   <summary>📌 Full list (icons)</summary>
